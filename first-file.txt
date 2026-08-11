@@ -1,2 +1,3 @@
 Hello Mangesh
 Welcome to 3 way merge conflict example
+File edites in git hub
