@@ -1,1 +1,2 @@
-Hello Mangesh 
+Hello Mangesh
+Welcome to 3 way merge conflict example
